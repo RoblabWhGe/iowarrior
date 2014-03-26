@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="iowarrior" type="iowarrior_node" name="iowarrior_node" output="screen">
+    <param name="InitValue" type="int" value="0" />
+  </node>
+</launch>

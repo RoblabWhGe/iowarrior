@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/roblab/!svn/ver/1195/BenjaminKoenig/ROS/RCF4ROS/devices/iowarrior/srv
+END
+iowarrior_setOutput.srv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roblab/!svn/ver/1151/BenjaminKoenig/ROS/RCF4ROS/devices/iowarrior/srv/iowarrior_setOutput.srv
+END
+iowarrior_getStatus.srv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roblab/!svn/ver/1151/BenjaminKoenig/ROS/RCF4ROS/devices/iowarrior/srv/iowarrior_getStatus.srv
+END
