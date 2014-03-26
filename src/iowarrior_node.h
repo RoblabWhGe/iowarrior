@@ -26,6 +26,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  *
  * Author: Benjamin Koenig
+ * Contributor: Stefan Wilkes
  * =============================================================================
  *
  *  iowarrior_node.h
